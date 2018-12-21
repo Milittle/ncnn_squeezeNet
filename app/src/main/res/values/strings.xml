@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Classification</string>
+    <string name="result">Classification Result</string>
+    <string name="imagenet">ImageNet Test Demo</string>
+</resources>
