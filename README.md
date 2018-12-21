@@ -1,4 +1,4 @@
-#  ncnn_squeezeNet
+#  ncnn_squeezeNet android studio demo
 
 1. 这是一个腾讯ncnn squeezeNet的ImageNet分类Android工程 Demo。
 2. 如果你感兴趣，可以clone去把玩。
